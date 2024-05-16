@@ -1,0 +1,3 @@
+C:/Users/Nicola/Desktop/Uni/SDA/Lab6/Lists/cmake-build-debug/CMakeFiles/Lists.dir
+C:/Users/Nicola/Desktop/Uni/SDA/Lab6/Lists/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Nicola/Desktop/Uni/SDA/Lab6/Lists/cmake-build-debug/CMakeFiles/rebuild_cache.dir
